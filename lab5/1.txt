@@ -1,0 +1,2 @@
+Whether Non-Static method excess static fields or not?
+Ans: Yes, A Non-Static method can oinstance static fields; because they are directly access to objects,not the class.
